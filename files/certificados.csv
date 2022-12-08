@@ -1,4 +1,5 @@
 Issuer,Certificate,Workload (h),Conclusion,File,Keywords
+Alura,Formação Shell Scripting,16,2022-12-08,20221208_shell-scripting.pdf,"shell script, bash, linux"
 Pluralsight,Object Oriented PHP,1,2022-11-20,20221120-Object-Oriented-PHP.pdf,"php, Object Oriented"
 Pluralsight,Consuming a REST API with Guzzle and PHP,1,2022-11-20,20221120-Consuming-a-REST-API-with_Guzzle-and-PHP.pdf,"REST, API, PHP, Guzzle"
 Pluralsight,Unit Testing with PHPUnit 9,1,2022-11-19,20221119-Unit-Testing-with_PHPUnit-9.pdf,"php, phpunit, test"
