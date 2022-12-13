@@ -1,4 +1,5 @@
 Issuer,Certificate,Workload (h),Conclusion,File,Keywords
+Linuxtips,Linux Essentials,10,2022-12-13,20221213_linux-essentials.pdf,"linux, bash, shell script"
 Alura,Formação Shell Scripting,16,2022-12-08,20221208_shell-scripting.pdf,"shell script, bash, linux"
 Pluralsight,Object Oriented PHP,1,2022-11-20,20221120-Object-Oriented-PHP.pdf,"php, Object Oriented"
 Pluralsight,Consuming a REST API with Guzzle and PHP,1,2022-11-20,20221120-Consuming-a-REST-API-with_Guzzle-and-PHP.pdf,"REST, API, PHP, Guzzle"
