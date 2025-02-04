@@ -1,6 +1,7 @@
 Issuer,Certificate,Workload (h),Conclusion,File,Keywords
 Comunidade Sobral de Tráfego,"Desafio da Gestão de Tráfego",10,2025-02-22,20250202_desafio_gestao_de_trafico.pdf,"Paid Traffic, Google Ads, Meta Ads, Ad Management, Conversion & ROI"
 Escola Conquer,Foco,10,2025-01-27,20250127-foco.pdf,"productivity, focus, finances, organization, creativity, oratory"
+Ada,"Introdução ao Node.JS com Express",1,2024-12-15,20241215_nodejs_com_express.pdf,"NodeJs, Express"
 Ada,"Git e Versionamento",2,2024-12-15,20241215_git.pdf,"git, github"
 Saint Paul,"Inteligência Artificial para Líderes",2,2024-10-21,20241021_inteligencia_aritifical_para_lideres.pdf,"leadership,Artificial intelligence"
 Tera,"PHP para Back-end",4,2024-09-26,20240926_php_para_back_end.pdf,"PHP, backend"
@@ -86,7 +87,7 @@ Linuxtips,Linux Essentials,10,2022-12-13,20221213_linux-essentials.pdf,"linux, b
 Escola Conquer,Formação em Liderança,10,2022-11-07,20221107_formacao_em_lideranca.pdf,leadership
 Escola Conquer,Análise de Dados e Power BI,10,2022-07-21,20220721_analise_de_dados_e_power_bi.pdf,"Power BI, Data Analysis"
 Escola Conquer,SQL a linguagem dos bancos de dados,10,2022-07-19,20220719_sql_escola_conquer.pdf,"sql, database"
-Rocketseat,Semana OmniStack 11,10,2020-03-29,20200329-Semana-Omnistack-11.pdf,"Node.js, React"
+Rocketseat,Semana OmniStack 11,10,2020-03-29,20200329-Semana-Omnistack-11.pdf,"NodeJs, React"
 GDG Natal,DevFest Nordeste 20219 Natal,10,2019-10-19,20191019-Devfest.pdf,"google, devfest, Nordeste"
 SEBRAE,Startup Day,10,2019-05-18,20190518-Startup-Day.pdf,startup
 ENAP,Criatividade e Novas Tecnologias no Serviço Público,10,2019-04-17,20190417-Criatividade-e-Novas-Tecnologias-no-Servico-Publico.pdf,"public management, creativity, new technologies"
@@ -163,7 +164,7 @@ Digital Innovation One,Desenvolvedor Front-end ReactJS,87,2020-06-25,20200625-De
 Digital Innovation One,Bootcamp everis New Talents – Java,88,2021-09-24,20210924_Bootcamp_Everis_New_Talents-Java.pdf,"bootcamp, java"
 Gama Academy,Desenvolvimento em ecommerce VTEX IO,100,2021-08-22,20210903_Hiring_Coders.pdf,"VTEX, javascrip, react, AWS"
 Gama Academy,QE&A Automation Academy,120,2022-08-27,20220827_qea_automation_academy.pdf,"QE&A, test"
-Gama Academy,Hiring Coders,120,2022-06-15,20220623_hiring_coders.pdf,"bootcamp, javascript, node.js, typescript, React, Next.JS, Gatsby.JS"
+Gama Academy,Hiring Coders,120,2022-06-15,20220623_hiring_coders.pdf,"bootcamp, javascript, NodeJs, typescript, React, Next.JS, Gatsby.JS"
 Gama Academy,Desenvolvimento Full Stack,120,2021-07-25,20210810_Bootcamp_Full_Stack_Hiring_Coders.pdf,"bootcamp, full stack,"
 Data Control,Pagemaker / CorelDraw,120,1995-05-20,19950520_certificado-pagemaker-coreldraw-datacontrol.pdf,"Pagemaker, CorelDraw"
 Gama Academy,Hiring Coders,120,2020-09-21,20200921_Hiring_Coders.pdf,"Bootcamp, Full stack, Javascript"
