@@ -1,6 +1,7 @@
 Issuer,Certificate,Workload (h),Conclusion,File,Keywords
 Comunidade Sobral de Tráfego,"Desafio da Gestão de Tráfego",10,2025-02-22,20250202_desafio_gestao_de_trafico.pdf,"Paid Traffic, Google Ads, Meta Ads, Ad Management, Conversion & ROI"
 Escola Conquer,Foco,10,2025-01-27,20250127-foco.pdf,"productivity, focus, finances, organization, creativity, oratory"
+Ada,"Programação orientada a objetos com JavaScript (Node.js)",4,2024-12-15,20241215_nodejs_orientacao_a_objetos.pdf,"NodeJs, Object Oriented"
 Ada,"Introdução ao Node.JS com Express",1,2024-12-15,20241215_nodejs_com_express.pdf,"NodeJs, Express"
 Ada,"Git e Versionamento",2,2024-12-15,20241215_git.pdf,"git, github"
 Saint Paul,"Inteligência Artificial para Líderes",2,2024-10-21,20241021_inteligencia_aritifical_para_lideres.pdf,"leadership,Artificial intelligence"
@@ -54,7 +55,7 @@ SEBRAE,MEI – Microempreendedor Individual,5,2014-07-22,20140722-sebrae_MEI_EAD
 Alura,"PHP Composer: Dependências, Autoload e Publicação",6,2023-03-18,20230318_php-composer.pdf,"php,composer"
 Microsoft,MS Roadshow Natal – Computação em Nuvem,6,2015-06-09,20150609-MS-Roadshow-Natal.pdf,Cloud
 Ka Solution,Microsoft Azure Data Fundamentals (DP-900),8,2024-04-06,20240406_ka_solution_azure-data-fundamentals.pdf,"Azure, Data"
-Alura,"Aprenda a Programar em C# com orientação a objetos",32,2023-07-11,20230711_Aprenda_a_programar_em_Csharp_com_orientacao_a_objetos.pdf,"Alura, CSharp, Object"
+Alura,"Aprenda a Programar em C# com orientação a objetos",32,2023-07-11,20230711_Aprenda_a_programar_em_Csharp_com_orientacao_a_objetos.pdf,"Alura, CSharp, Object Oriented"
 KA Solution,Microsoft Azure Fundamentals AZ-900,8,2023-07-08,20230708_azure_fundamentals_az900.pdf,"Azure, Microsoft, cloud"
 Grupo Voitto,Como ter um Perfil Campeão no LinkedIn,8,2023-01-24,20230124-perfil-campeao-linkedin.pdf,Linkedin
 Grupo Voitto,Formação de Líderes Kaizen,8,2023-01-18,20230118-Formacao-de-Lideres-Kaizen.pdf,"Leadership, Kaizen"
