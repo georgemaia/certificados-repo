@@ -1,5 +1,5 @@
 Issuer,Certificate,Workload (h),Conclusion,File,Keywords
-Escola Conquer,"Carisma: O segredo para conquistar e influenciar pessoas",10,2025-09-22,20250922-carisma.pdf,"charisma, influence"
+Escola Conquer,"Carisma: O segredo para conquistar e influenciar pessoas",10,2025-09-22,20250922-carisma.pdf,"charisma, influence, softskill"
 Grupo Voitto,Fundamentos Excel e Copilot com IA,8,2025-09-19,20250919-fundamentos-excel-e-copilot-com-ia.pdf,"Excel, Copilot, AI, Artificial Intelligence"
 Hora de Codar,"Introdução ao n8n em 1 hora",2,2025-09-17,20250917-introducao-ao-n8n-em-1-hora.pdf,"n8n, automation, workflow, low-code"
 Rocketseat,"PowerBI com IA",3,2025-09-13,20250913-PowerBi-com-IA.pdf,"PowerBI, Data Analysis, AI"
@@ -20,7 +20,7 @@ Koru,"Jornada Tech Desenvolve",20,2025-05-19,20250519-koru.pdf,"Ai, intelligence
 FM2S,"Lean Seis Sigma Yellow Belt",24,2025-05-10,20250510-Lean-Seis-Sigma-Yellow-Belt.pdf,"Lean Six Sigma, Yellow Belt"
 FM2S,"Lean Seis Sigma White Belt",8,2025-05-09,20250509-Lean-Seis-Sigma-White-Belt.pdf,"Lean Six Sigma, White Belt"
 Atos Corporate University,"Programa de Imersão em Inteligência Artificial I",1,2025-05-09,20250509-Programa-de-Imersao-em-Inteligencia-Artificial-1.pdf,"AI, Artificial Intelligence"
-Escola Conquer,"A Ciência e a estratégia das vendas",10,2025-05-05,20250505_A_Ciencia_e_a_Estrategia_das_Vendas.pdf,"sales"
+Escola Conquer,"A Ciência e a estratégia das vendas",10,2025-05-05,20250505_A_Ciencia_e_a_Estrategia_das_Vendas.pdf,"sales, softskill"
 "Comitê de Cultura do RN","Oficina de Assessoria de Comunicação para Projetos Culturais",3,2025-04-29,20250429-Oficina-de-assessoria-de-comunicacao-para-projetos-culturais.pdf,"Workshop, Communication Advisory, Cultural Projects"
 Atos Corporate University,"Atos Gen AI Week",1,2025-04-15,20250415-Atos-Gen-AI-Week.pdf,"Artificial Inteligente"
 Atos Corporate University,"LGPD: Data Subject Rights",1,2025-04-16,20250416-LGPD-data-subject-rights.pdf,"LGPD"
@@ -55,8 +55,8 @@ Tera,"Programação Front-end",10,2024-09-26,20240926_programacao_front-end.pdf,
 Tera,"Implementação Ágil de IA Generativa em Produtos Digitais",4,2024-09-26,20240926_implementacao_agil_de_IA_generativa_em_produtos_digitais.pdf,"Artificial intelligence, agile"
 ProWay,"Trilha fluêncIA",6,2024-08-26,202240826_trilha-fluencia.pdf,"Artificial intelligence, microsoft,"
 Atos Corporate University,"AIMS Awareness Training",1,2024-08-26,20240826_AIMS_Awareness_Training.pdf,"AIMS"
-Atos Corporate University,"Time Management",1,2024-08-21,20240821_time_management.pdf,"time"
-Atos Corporate University,"Autonomy",1,2024-08-01,20240801_autonomy.pdf,"autonomy"
+Atos Corporate University,"Time Management",1,2024-08-21,20240821_time_management.pdf,"time, softskill"
+Atos Corporate University,"Autonomy",1,2024-08-01,20240801_autonomy.pdf,"autonomy, softskill"
 Santander Open Academy,"Google: Inteligência Artificial e Produtividade",4,2024-07-16,20240716_google_inteligencia_artifgicial.pdf,"Artificial intelligence, Google, Gemini"
 Escola Conquer,Inteligência Artificial: eleve sua produtividade e acelere sua carreira,10,2024-06-24,20240624_Conquer_Inteligencia_Artificial.pdf,"Artificial intelligence"
 UniCesumar,Acelera Pleno - Java,230,2024-06-14,20240614_acelera-pleno.pdf,"Java, PostgreSQL, Spring Boot"
@@ -82,9 +82,9 @@ Associação Brasileira de Educação à Distância,Espanhol introdutório para 
 Escola de Governo,Uso e Tendências da Computação em Nuvem,3,2014-10-01,20141001-uso-e-tendencias-da-computacao-em-nuvem.pdf,cloud
 Grupo Voitto,Fundamentos de Power BI,4,2023-01-26,20230126-fundamentos-power-bi.pdf,PowerBI
 KA Solution,AWS Discovery Day - Cloud Practitioner Essentials,4,2022-10-10,20221010_AWS-Discovery-day-Cloud-Practitioner-Essentials.pdf,"AWS, cloud"
-Escola Conquer,PNL para líderes,4,2022-07-22,20220722_PNL_para_líderes.pdf,"PNL, leadership"
+Escola Conquer,PNL para líderes,4,2022-07-22,20220722_PNL_para_líderes.pdf,"PNL, leadership, softskill"
 Alura,SEO Wordpress: Otimize o ranqueamento do seu site,4,2022-01-20,20220120_Wordpress_SEO.pdf,"wordpress, seo"
-PUCRS,Certificação em Liderança Capacidade de Aprender e Resiliência,4,2021-08-26,20210826_Lideranca_capacidade_de_aprender_e_resiliencia.pdf,"leadership, learn"
+PUCRS,Certificação em Liderança Capacidade de Aprender e Resiliência,4,2021-08-26,20210826_Lideranca_capacidade_de_aprender_e_resiliencia.pdf,"leadership, learn, softskill"
 Microsoft Virtual Academy,Introdução ao Active Directory,4,2013-04-28,20130428_mva_introducao_active_directory.pdf,"Active Directory,Windows Server"
 DevMedia,O que é teste unitário?,4,2019-10-13,20191013-Devmedia-O-que-e-teste-unitário.pdf,"unit test,test"
 Open Knowledge Brasil,Python para Open Data,4,2019-03-23,20190323-Python-para-Open-Data.pdf,"python, open data"
