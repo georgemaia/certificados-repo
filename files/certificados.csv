@@ -1,25 +1,25 @@
-Issuer,Certificate,Workload (h),Conclusion,File,Keywords
-Alura,"Git e Github: Compartilhando e colaborando em projetos",8,2025-09-29,20250929-Git-Github-colaborando-projetos.pdf,"git, github"
-Alura,"Dart: Trabalhando com a sintaxe e configuração de projeto",8,2025-10-01,20251001-Dart-trabalhando-com-sintaxe-e-config-projeto.pdf,"Dart, syntax, project configuration"
-Alura,"Dart: Trabalhando com orientação a objetos",8,2025-10-13, 20251003-Dart-trabalhando-com-orientacao-a-objetos.pdf,"Dart, Object Oriented"
-Alura,"Dart: Dominando assincronismo e criando comunicação com APIs",10,2025-10-20,20251020-Dart-dominando-assincronismo-comunicacao-com-apis.pdf,"Dart, Asynchronous, API"
+Issuer,"Certificate",Workload (h),Conclusion,File,"Keywords"
 Alura,"Dart: Lidando com erros, exceções e null safety",10,2025-11-12, 20251112-Dart-lidando-com-erros-excecoes-null-safety.pdf,"Dart, Errors, Exceptions, Null Safety"
+Alura,"Dart: Dominando assincronismo e criando comunicação com APIs",10,2025-10-20,20251020-Dart-dominando-assincronismo-comunicacao-com-apis.pdf,"Dart, Asynchronous, API"
 Atos Corporate University,"Prevenção ao Assédio",1,2025-10-14,20251014-prevencao-assedio.pdf,"harassment"
+Alura,"Dart: Trabalhando com orientação a objetos",8,2025-10-13, 20251003-Dart-trabalhando-com-orientacao-a-objetos.pdf,"Dart, Object Oriented"
+Impacta,"n8n Fundamentos",5,2025-10-10,20251010-n8n-fundamentos.pdf,"n8n, automation, workflow, low-code"
 Atos Corporate University,"Code of Ethics 2025",1,2025-10-07,20251007-code-of-ethics-2025.pdf,"ethics, code of ethics"
 Atos Corporate University,"Atos Cybersecurity and Safety Awareness 2025",1,2025-10-07,20251007-atos-cybersecurity-and-safety-awareness-2025.pdf,"cybersecurity, safety, awareness"
 Atos Corporate University,"New Data Protection Training 2025 (including GDPR)",1,2025-10-07,20251007-New-Data-Protection-Training-2025.pdf,"data protection, GDPR, LGPD"
 Atos Corporate University,"Environmental Program & EMS 2025",1,2025-10-07,20251007-Environmental-Program-EMS-2025.pdf,"environment, sustainability, climate change"
-Impacta,"n8n Fundamentos",5,2025-10-10,20251010-n8n-fundamentos.pdf,"n8n, automation, workflow, low-code"
 FM2S,"Metodologias Ágeis na Prática",12,2025-10-07,20251007-Metodologias-ageis-na-pratica.pdf,"Agile, Scrum, Kanban, SAFe, Extreme Programming"
+Alura,Dart: Trabalhando com a sintaxe e configuração de projeto,8,2025-10-01,20251001-Dart-trabalhando-com-sintaxe-e-config-projeto.pdf,"Dart, syntax, project configuration"
+Alura,"Git e Github: Compartilhando e colaborando em projetos",8,2025-09-29,20250929-Git-Github-colaborando-projetos.pdf,"git, github"
 Escola Conquer,"Carisma: O segredo para conquistar e influenciar pessoas",10,2025-09-22,20250922-carisma.pdf,"charisma, influence, softskill"
 Grupo Voitto,Fundamentos Excel e Copilot com IA,8,2025-09-19,20250919-fundamentos-excel-e-copilot-com-ia.pdf,"Excel, Copilot, AI, Artificial Intelligence"
 Hora de Codar,"Introdução ao n8n em 1 hora",2,2025-09-17,20250917-introducao-ao-n8n-em-1-hora.pdf,"n8n, automation, workflow, low-code"
 Rocketseat,"PowerBI com IA",3,2025-09-13,20250913-PowerBi-com-IA.pdf,"PowerBI, Data Analysis, AI"
 STATUM,"Curso básico de Apia 3",1,2025-06-30,20250630-Apia.pdf,"Apia, BPM, Business Process Management, Process Optimization"
+MAPA,"Observação Meteorológica 2025",20,2025-06-30,20250630-Observacao_Meteorologica-2025.pdf,"observation, meteorological"
 SENAR,"Implantação e Utilização da Palma Forrageira",20,2025-06-25,20250625-Implantacao-e-utilizacao-da-palma-forrageira.pdf,"agriculture, forage palm"
 Faculdade XP,"Investidor 180",4,2025-06-17,20250617-Investidor-180.pdf,"investment, finance"
 Ka Solution,"Microsoft Azure AI Fundamentals AI-900",8,2025-06-14,20250614-Microsoft-Azure-AI-Fundamentals-AI-900.pdf,"Azure, AI, Artificial Intelligence, Microsoft"
-MAPA,"Observação Meteorológica 2025",20,2025-06-30,20250630-Observacao_Meteorologica-2025.pdf,"observation, meteorological"
 SENAR,"Energia Fotovoltaica",20,2025-06-11,20250611-energia-fotovoltaica.pdf,"photovoltaic energy"
 SENAR,"Mapeamento da Propriedade Rural",16,2025-06-11,20250611-mapeamento-da-propriedade-rural.pdf,"agriculture, mapping"
 SENAR,"Marketplace para produtores rurais",3,2025-06-04,20250604-marketplace-para-produtores-rurais.pdf,"marketplace, rural producer"
@@ -33,12 +33,12 @@ FM2S,"Lean Seis Sigma Yellow Belt",24,2025-05-10,20250510-Lean-Seis-Sigma-Yellow
 FM2S,"Lean Seis Sigma White Belt",8,2025-05-09,20250509-Lean-Seis-Sigma-White-Belt.pdf,"Lean Six Sigma, White Belt"
 Atos Corporate University,"Programa de Imersão em Inteligência Artificial I",1,2025-05-09,20250509-Programa-de-Imersao-em-Inteligencia-Artificial-1.pdf,"AI, Artificial Intelligence"
 Escola Conquer,"A Ciência e a estratégia das vendas",10,2025-05-05,20250505_A_Ciencia_e_a_Estrategia_das_Vendas.pdf,"sales, softskill"
-"Comitê de Cultura do RN","Oficina de Assessoria de Comunicação para Projetos Culturais",3,2025-04-29,20250429-Oficina-de-assessoria-de-comunicacao-para-projetos-culturais.pdf,"Workshop, Communication Advisory, Cultural Projects"
-Atos Corporate University,"Atos Gen AI Week",1,2025-04-15,20250415-Atos-Gen-AI-Week.pdf,"Artificial Inteligente"
+Comitê de Cultura do RN,"Oficina de Assessoria de Comunicação para Projetos Culturais",3,2025-04-29,20250429-Oficina-de-assessoria-de-comunicacao-para-projetos-culturais.pdf,"Workshop, Communication Advisory, Cultural Projects"
 Atos Corporate University,"LGPD: Data Subject Rights",1,2025-04-16,20250416-LGPD-data-subject-rights.pdf,"LGPD"
 Atos Corporate University,"LGPD: National Data Protection Authority - ANPD",1,2025-04-16,20250416-LGPD-National-Data_Protection-Authority-ANPD.pdf,"LGPD"
 Atos Corporate University,"LGPD: The Ten Principles",1,2025-04-16,20250416-LGPD-The-Ten-Principles.pdf,"LGPD"
-Atos Corporate University,"LGPD: Necessary Adjustments",1,2025-04-16,20250416-LGPD-Necessary-Adjustments.pdf,"LGPD"
+"Atos Corporate University","LGPD: Necessary Adjustments",1,2025-04-16,20250416-LGPD-Necessary-Adjustments.pdf,"LGPD"
+Atos Corporate University,"Atos Gen AI Week",1,2025-04-15,20250415-Atos-Gen-AI-Week.pdf,"Artificial Inteligente"
 Atos Corporate University,"LGPD: Penalties and Sanctions",1,2025-04-15,20250415-LGPD-penalties-sanctions.pdf,"LGPD"
 Atos Corporate University,"LGPD: The Organizations´s Responsibilities",1,2025-04-15,20250415-LGPD-organizations-responsibilities.pdf,"LGPD"
 Atos Corporate University,"LGPD: Introduction to Data Protection",1,2025-04-15,20250416-Introduction-to-data-protection.pdf,"LGPD"
@@ -47,17 +47,17 @@ Ka Solution,"SAP para Iniciantes",8,2025-04-05,20250405_sap_para_iniciantes.pdf,
 Xperiun,"Mini curso SQL",2,2025-03-28,20250328_minicurso_SQL.pdf,"SQL, database"
 Xperiun,"Mini curso de Power BI",2,2025-03-28,20250328_minicurso_power_BI.pdf,"PowerBI, Data Analysis"
 Mendix,"Mendix Rapid Developer Certification",1,2025-03-21,20250321_mendix_rapid_certification.pdf,"Mendix,low-code"
+Comunidade Sobral de Tráfego,"Desafio da Gestão de Tráfego",10,2025-02-22,20250202_desafio_gestao_de_trafico.pdf,"Paid Traffic, Google Ads, Meta Ads, Ad Management, Conversion & ROI"
 Santander Open Academy,"SEO e Marketing de Conteúdo",8,2025-02-11,20250211_seo_marketing_de_conteudo.pdf,"marketing, SEO"
 Treinaweb,"Laravel - Criando aplicações dinâmicas com Livewire",8,2025-02-06,20250206_Laravel_Criando_aplicacoes_dinamicas_com_Livewire.pdf,"php, laravel, livewire"
 Treinaweb,"Laravel - Construindo aplicações com FilamentPHP",8,2025-02-04,20250204_Laravel_filament.pdf,"php, laravel, filament"
-Comunidade Sobral de Tráfego,"Desafio da Gestão de Tráfego",10,2025-02-22,20250202_desafio_gestao_de_trafico.pdf,"Paid Traffic, Google Ads, Meta Ads, Ad Management, Conversion & ROI"
 Escola Conquer,Foco,10,2025-01-27,20250127-foco.pdf,"productivity, focus, finances, organization, creativity, oratory"
 Ada,"Programação orientada a objetos com JavaScript (Node.js)",4,2024-12-15,20241215_nodejs_orientacao_a_objetos.pdf,"NodeJs, Object Oriented"
 Ada,"Lógica de Programação com JavaScript (Node.js)",5,2024-12-15,20241215_nodejs_logica_programaca.pdf,"NodeJs, Programming logic"
 Ada,"Introdução ao Node.JS com Express",1,2024-12-15,20241215_nodejs_com_express.pdf,"NodeJs, Express"
 Ada,"Git e Versionamento",2,2024-12-15,20241215_git.pdf,"git, github"
-AWS,"AWS Partner: Generative AI on AWS Essentials (Business)",1,2024-10-05,20241005_AWS_Generative_AI.pdf,"AWS, AI, AI Generative"
 Saint Paul,"Inteligência Artificial para Líderes",2,2024-10-21,20241021_inteligencia_aritifical_para_lideres.pdf,"leadership,Artificial intelligence"
+AWS,"AWS Partner: Generative AI on AWS Essentials (Business)",1,2024-10-05,20241005_AWS_Generative_AI.pdf,"AWS, AI, AI Generative"
 Tera,"PHP para Back-end",4,2024-09-26,20240926_php_para_back_end.pdf,"PHP, backend"
 Tera,"ETL: extração transformação e carga de dados",3,2024-09-26,20240926_etl_extracao_transformacao_e_carga_de_dados.pdf,"ETL,SQL, database"
 Tera,"Métricas e tomada de decisão com dados",4,2024-09-26,20240926_metricas_e_tomada_de_decisao_com_dados.pdf,"Data"
@@ -72,157 +72,157 @@ Atos Corporate University,"Autonomy",1,2024-08-01,20240801_autonomy.pdf,"autonom
 Santander Open Academy,"Google: Inteligência Artificial e Produtividade",4,2024-07-16,20240716_google_inteligencia_artifgicial.pdf,"Artificial intelligence, Google, Gemini"
 Escola Conquer,Inteligência Artificial: eleve sua produtividade e acelere sua carreira,10,2024-06-24,20240624_Conquer_Inteligencia_Artificial.pdf,"Artificial intelligence"
 UniCesumar,Acelera Pleno - Java,230,2024-06-14,20240614_acelera-pleno.pdf,"Java, PostgreSQL, Spring Boot"
-CertiProf,"Cyber Security Foundation",1,2021-04-30,20210430_Cyber_Security_Foundation.pdf,"security"
-Kanban Institute,Kanban Foundation – KIKF,1,2020-09-16,20200916_Kanban.pdf,"Kanban, KIKF"
-CertiProf,Scrum Foundation Professional – SFPC,1,2020-06-13,20200614_Scrum_Foundation_Professional_Certificate.pdf,"scrum, SFPC"
 Atos Corporate University,Human Firewall,1,2024-05-21,20240521_Human_Firewall.pdf,"Security, firewall, human firewall"
+Ka Solution,Microsoft Azure Data Fundamentals (DP-900),8,2024-04-06,20240406_ka_solution_azure-data-fundamentals.pdf,"Azure, Data"
+Atos Corporate University,"Assédio e outros temas relacionados a discriminação e preconceito no ambiente de trabalho",1,2023-12-20,20231220_Assedio_e_outros_temas_relacionados_a_discriminacao_e_preconceito_no_ambiente_de_trabalho.pdf,"harassment, prejudice"
+Escola Conquer,Apresentações que conquistam,10,2023-11-06,20231106_escola_conquer-apresentacoes.pdf,"Communication, presentitions"
+Digital Innovation One,Fundamentos de Computação em Nuvem AWS,9,2023-10-16,20231016-Fundamentos_de_Computacao_em_Nuvem_AWS.pdf,"AWS, Cloud"
+Alura,"PHP e MySQL: criando sua primeira aplicação",10,2023-09-22,20230922_criando_sua_primeira_aplicacao_web.pdf,"php, mysql"
+Alura,PHP e MySQL: criando uma webapp,10,2023-08-15,20230815_php_mysql_criando_uma_webapp.pdf,"php, mysql"
+Receita Federal,"Treinamento Nacional do Imposto sobre a Propriedade Territorial Rural",2,2023-08-14,20230814_treinamento-nacional-do-ITR.pdf,"training, tax, rural tax, ITR"
+Descomplica,"Gestão do Tempo",30,2023-08-14,20230814_gestao-de-tempo.pdf,"productivity, time management"
+Grupo Voitto,Oratória de Alta Performance,16,2023-08-13,20230813-oratoria-de-alta-performance.pdf,"Communication, oratory"
+Alura,"Aprenda a Programar em C# com orientação a objetos",32,2023-07-11,20230711_Aprenda_a_programar_em_Csharp_com_orientacao_a_objetos.pdf,"Alura, CSharp, Object Oriented"
+KA Solution,Microsoft Azure Fundamentals AZ-900,8,2023-07-08,20230708_azure_fundamentals_az900.pdf,"Azure, Microsoft, cloud"
+Grupo Voitto,Power BI Aplicado a Negócios,24,2023-06-27,20230627_powerbi_aplicado_a_negocios.pdf,PowerBI
+Alura,Desempenho do Oracle Database: Análise do Ambiente,12,2023-06-12,20230621_desempenho-do-oracle-database-analise-do-ambiente.pdf,"oracle, database"
+Alura,Formação Administração e Performance com Oracle Database,50,2023-06-12,20230612_administracao-e-performance-com-oracle-database.pdf,"oracle, database"
+Alura,Administração do Oracle Database: Segurança e otimização do banco,14,2023-05-31,20230531_Administracao_do_Oracle_Database-seguranca_e_otimizacao_do_banco.pdf,"oracle, database"
+Alura,"Administração do Oracle Database: Segurança e Otimização do Banco",14,2023-05-31,20230531_administracao-do-oracle-database-seguranca-e-otimizacao-do-banco.pdf,"oracle, database"
+Alura,Administração do Oracle Database: Criação e Gerenciamento do Banco,10,2023-05-26,20230526_administracao-do-oracle-database-criacao-e-gerenciamento-do-banco.pdf,"oracle, database"
+Alura,Desempenho do Oracle Database: Otimização de Consultas,14,2023-05-24,20230621_desempenho-do-oracle-database-otimizacao-de-consultas.pdf,"oracle, database"
+Escola Conquer,Comunicação e Oratória,10,2023-05-22,20230522_Conquer_comunicacao_oratoria.pdf,"Communication, oratory"
+Alura,PHP Composer: Dependências Autoload e Publicação,6,2023-03-18, 20230318_php-composer.pdf,"php,composer"
+Escola Conquer,Produtividade Inteligente,10,2023-02-14,20230214_produtividade_inteligente.pdf,productivity
+Grupo Voitto,Fundamentos de Power BI,4,2023-01-26,20230126-fundamentos-power-bi.pdf,PowerBI
+Grupo Voitto,Preparatório Agile Scrum Foundation EXIN,20,2023-01-26,20230214_preparatorio_agile-scrum-foundation-exin.pdf,"scrum,agile"
+Grupo Voitto,Como ter um Perfil Campeão no LinkedIn,8,2023-01-24,20230124-perfil-campeao-linkedin.pdf,Linkedin
+Grupo Voitto,Formação de Líderes Kaizen,8,2023-01-18,20230118-Formacao-de-Lideres-Kaizen.pdf,"Leadership, Kaizen"
+RafaOutSystems,Semana do Programador 7X RafaOutSystems,5,2023-01-10,20230110_SP7X_Outsystems.pdf,"low-code, Outsystems"
+Grupo Voitto,MASP - Metodologia de Análise e Solução de Problemas,8,2022-12-28,20221228-masp.pdf,problem solving
+Alura,Google Search Console: Configurações e relatórios,8,2022-12-26,20221226-google-search-console-configuracoes-e-relatorios.pdf,"Google, Marketing Digital, Seach Console, SEO"
+Google,Princípios básicos de marketing digital,40,2022-12-26,20221225-Principios-basicos-marketing-digital.pdf,"Google, Marketing Digital, Marketing"
 Yoast,Structured data for beginners,1,2022-12-16,20221216_Structured_data_for_beginners.pdf,"SEO, Structured Data, Wordpress, Wordpress Plugin"
+Linuxtips,Linux Essentials,10,2022-12-13,20221213_linux-essentials.pdf,"linux, bash, shell script"
+Alura,Formação Shell Scripting,16,2022-12-08,20221208_shell-scripting.pdf,"shell script, bash, linux"
 Pluralsight,Object Oriented PHP,1,2022-11-20,20221120-Object-Oriented-PHP.pdf,"php, Object Oriented"
 Pluralsight,Consuming a REST API with Guzzle and PHP,1,2022-11-20,20221120-Consuming-a-REST-API-with_Guzzle-and-PHP.pdf,"REST, API, PHP, Guzzle"
 Pluralsight,Unit Testing with PHPUnit 9,1,2022-11-19,20221119-Unit-Testing-with_PHPUnit-9.pdf,"php, phpunit, test"
-AWS,AWS Foundations: Getting Started with the AWS Cloud Essentials,1,2021-08-01,20210801_AWS_Foundation-Getting_Started_with_the_AWS_Cloud_Essentials.pdf,"AWS, cloud"
-Escola do  Governo,Apresentação oral Inovação na gestão pública: O caso do portal de transparência da Assembleia Legislativa do Rio Grande do Norte,1,2017-08-31,20170831-congesprn.pdf,innovation
-Receita Federal,Treinamento Nacional do Imposto sobre a Propriedade Territorial Rural,2,2023-08-14,20230814_treinamento-nacional-do-ITR.pdf,"training, tax, rural tax, ITR"
 Pluralsight,TailwindCSS 3 Fundamentals,2,2022-11-18,20221118-TailwindCSS3-Fundamentals.pdf,"TailwindCSS, css"
-MDM,Gerenciamento de dispositivos móveis na área da saúde,2,2021-07-29,20210729_Gerenciamento_de_dispositivos_moveis_na_area_da_saude.pdf,"mobile, health"
-Fundação Bradesco,Lei Geral de Proteção de Dados - LGPD,2,2021-05-10,20210510_Lei_Geral_de_Protecao_de_Dados_LGPD.pdf,"LGPD"
-PUCPR,Estratégi.CO,2,2021-02-03,20210203_PUCPR_Digital-Estrategi.CO.pdf,"career"
-PUCPR,Reset,2,2021-02-03,20210203_PUCPR_Digital-Reset.pdf,"career"
-IETEC,Certificação PMP – Processo e pré-requisito,2,2015-02-22,20150222-pmp--processos-e-pre-requisitos.pdf,process
-Rock Content,Copywriting,3,2022-06-28,20220628_copywriting.pdf,copywriting
-Associação Brasileira de Educação à Distância,Espanhol introdutório para Intercambistas,3,2015-11-04,20151104-espanhol-para-intercambistas.pdf,Spanish
-Escola de Governo,Uso e Tendências da Computação em Nuvem,3,2014-10-01,20141001-uso-e-tendencias-da-computacao-em-nuvem.pdf,cloud
-Grupo Voitto,Fundamentos de Power BI,4,2023-01-26,20230126-fundamentos-power-bi.pdf,PowerBI
+Escola Conquer,Formação em Liderança,10,2022-11-07,20221107_formacao_em_lideranca.pdf,leadership
 KA Solution,AWS Discovery Day - Cloud Practitioner Essentials,4,2022-10-10,20221010_AWS-Discovery-day-Cloud-Practitioner-Essentials.pdf,"AWS, cloud"
+Gama Academy,QE&A Automation Academy,120,2022-08-27,20220827_qea_automation_academy.pdf,"QE&A, test"
+Escola Conquer,Negociação e Influência,15,2022-07-25,20220725_negociacao_e_influencia.pdf,"negotiation, influence"
 Escola Conquer,PNL para líderes,4,2022-07-22,20220722_PNL_para_líderes.pdf,"PNL, leadership, softskill"
-Alura,SEO Wordpress: Otimize o ranqueamento do seu site,4,2022-01-20,20220120_Wordpress_SEO.pdf,"wordpress, seo"
-PUCRS,Certificação em Liderança Capacidade de Aprender e Resiliência,4,2021-08-26,20210826_Lideranca_capacidade_de_aprender_e_resiliencia.pdf,"leadership, learn, softskill"
-Microsoft Virtual Academy,Introdução ao Active Directory,4,2013-04-28,20130428_mva_introducao_active_directory.pdf,"Active Directory,Windows Server"
-DevMedia,O que é teste unitário?,4,2019-10-13,20191013-Devmedia-O-que-e-teste-unitário.pdf,"unit test,test"
-Open Knowledge Brasil,Python para Open Data,4,2019-03-23,20190323-Python-para-Open-Data.pdf,"python, open data"
-Escola da Assembleia,Oficina em Análise Comportamental,4,2018-07-03,20180703-Oficina-em-Analise-Comportamental.pdf,"behavioral analysis, soft skills"
-Linux Foundation,LFS101x2: Introduction to Linux,4,2016-12-19,20161219-LFS101x2-Introduction-to-Linux.pdf,linux
-Escola da Assembleia,Ética Profissional,4,2016-09-28,20160928-Etica-Profissional.pdf,"ethic, soft skills"
-RafaOutSystems,Semana do Programador 7X RafaOutSystems,5,2023-01-10,20230110_SP7X_Outsystems.pdf,"low-code, Outsystems"
-SEBRAE,MEI – Microempreendedor Individual,5,2014-07-22,20140722-sebrae_MEI_EAD.pdf,MEI
-Alura,"PHP Composer: Dependências Autoload e Publicação",6,2023-03-18, 20230318_php-composer.pdf,"php,composer"
-Microsoft,MS Roadshow Natal – Computação em Nuvem,6,2015-06-09,20150609-MS-Roadshow-Natal.pdf,Cloud
-Ka Solution,Microsoft Azure Data Fundamentals (DP-900),8,2024-04-06,20240406_ka_solution_azure-data-fundamentals.pdf,"Azure, Data"
-Alura,"Aprenda a Programar em C# com orientação a objetos",32,2023-07-11,20230711_Aprenda_a_programar_em_Csharp_com_orientacao_a_objetos.pdf,"Alura, CSharp, Object Oriented"
-KA Solution,Microsoft Azure Fundamentals AZ-900,8,2023-07-08,20230708_azure_fundamentals_az900.pdf,"Azure, Microsoft, cloud"
-Grupo Voitto,Como ter um Perfil Campeão no LinkedIn,8,2023-01-24,20230124-perfil-campeao-linkedin.pdf,Linkedin
-Grupo Voitto,Formação de Líderes Kaizen,8,2023-01-18,20230118-Formacao-de-Lideres-Kaizen.pdf,"Leadership, Kaizen"
-Grupo Voitto,MASP - Metodologia de Análise e Solução de Problemas,8,2022-12-28,20221228-masp.pdf,problem solving
-Alura,Google Search Console: Configurações e relatórios,8,2022-12-26,20221226-google-search-console-configuracoes-e-relatorios.pdf,"Google, Marketing Digital, Seach Console, SEO"
+Escola Conquer,Análise de Dados e Power BI,10,2022-07-21,20220721_analise_de_dados_e_power_bi.pdf,"Power BI, Data Analysis"
+Gama Academy,Hiring Coders,35,2022-07-20,20220711_hiring_coders_vtex_aws.pdf,"VTEX IO, AWS, DevOps, Digital E-commerce"
+Escola Conquer,SQL a linguagem dos bancos de dados,10,2022-07-19,20220719_sql_escola_conquer.pdf,"sql, database"
+Rock Content,Copywriting,3,2022-06-28,20220628_copywriting.pdf,"copywriting"
+Grupo Voitto,Criatividade e Resolução de Problemas,9,2022-06-20,20220620_criatividade_e_resolucao_de_problemas.pdf,"creativity, problem solving"
+Gama Academy,Hiring Coders,120,2022-06-15,20220623_hiring_coders.pdf,"bootcamp, javascript, NodeJs, typescript, React, Next.JS, Gatsby.JS"
+Linuxtips, Uncomplicating Docker,20,2022-06-12,20220612_Uncomplicating_Docker.pdf,"docker"
+OpenSAP," Python for Beginners",30,2022-06-01,20220601_python1_ConfirmationOfParticipation.pdf,python
+OpenSAP, Python for Beginners Record of Achievement,30,2022-06-01,20220601_python1_RecordOfAchievement.pdf,"python"
+Atos Corporate University,"Ajax Data Request & Responses",1,2022-05-18,20220513_ajax_data_request_and_responses.pdf,"ajax"
+Escola Conquer,"Inteligência Emocional 2.0",15,2022-04-25,20220425_Inteligencia_Emocional_2.pdf,"emotional intelligence"
+Atos Corporate University,Redefinindo-se após uma mudança empresarial,1,2022-03-18,20220318_Redefininho-se_apos_uma_mudanca_empresarial.pdf,"change, adaptation"
 Atos Corporate University,"Google Cloud Digital Leader (CDL)",1,2022-02-23,20220223_google_cloud_digital_leader.pdf,"google, cloud, digital Leader, leadership"
 Alura,Doctrine ORM: Acesse o banco com mapeamento objeto-relacional,8,2022-02-07,20220207_Doctrine_ORM.pdf,"orm, doctrine, php"
 Alura,PHP e PDO: Trabalhando com banco de dados,8,2022-01-31,20220131_PHP_e_PDO_trabalhando_com_banco_de_dados.pdf,"php, pdo, database"
 Alura,E-mail Marketing: da segmentação ao AB,8,2022-01-21,20220121_E-mail_Marketing_da_Segmentacao_ao_AB.pdf,"E-mail, marketing"
+Alura,SEO Wordpress: Otimize o ranqueamento do seu site,4,2022-01-20,20220120_Wordpress_SEO.pdf,"wordpress, seo"
 Alura,Plugin no Wordpress: Widget shortcode e configurações,8,2022-01-19,20220120_Wordpress_plugin.pdf,"wordpress, plugin"
-Tera,Digital Marketing,8,2021-10-19,20211019_digital_marketing.pdf,marketing
-Instituto Legislativo Potiguar,Segurança Eletrônica e Certificação Digital,8,2012-06-03,20120903_certificado-segurancaeletronica.pdf,security
+Gama Academy,Acelera Atos,131,2021-12-20,20211220_Acelera_Atos.pdf,"java"
+Rocketseat,DoWhile,16,2021-12-02,20211202_Rockseat_DoWhile.pdf,"career"
+Tera,Digital Marketing,8,2021-10-19,20211019_digital_marketing.pdf,"marketing"
+Treinaweb,TreinaWeb Multi-stack #2,12,2021-10-17,20211020_Multi_Stack_2_edicao.pdf,"php, laravel"
+FM2S,Kaizen - Processo de Melhoria Contínua,12,2021-10-04,20211004_Kaizen-Processo_de_Melhoria_Continua.pdf,"Kaizen, Continuous Improvement"
+Digital Innovation One,Bootcamp everis New Talents – Java,88,2021-09-24,20210924_Bootcamp_Everis_New_Talents-Java.pdf,"bootcamp, java"
+Digital Innovation One,"Santander Bootcamp | Fullstack Developer",125,2021-09-14,20210914_Santander_Bootcamp_Fullstack_Developer.pdf,"bootcamp, full stack"
+Escola Conquer,Comunicação e Oratória,15,2021-08-31,20210831__COMUNICACAO_E_ORATORIA.pdf,"Communication, oratory"
+PUCRS,Certificação em Liderança Capacidade de Aprender e Resiliência,4,2021-08-26,20210826_Lideranca_capacidade_de_aprender_e_resiliencia.pdf,"leadership, learn, softskill"
+Gama Academy,Desenvolvimento em ecommerce VTEX IO,100,2021-08-22,20210903_Hiring_Coders.pdf,"VTEX, javascrip, react, AWS"
+AWS,AWS Foundations: Getting Started with the AWS Cloud Essentials,1,2021-08-01,20210801_AWS_Foundation-Getting_Started_with_the_AWS_Cloud_Essentials.pdf,"AWS, cloud"
+MDM,Gerenciamento de dispositivos móveis na área da saúde,2,2021-07-29,20210729_Gerenciamento_de_dispositivos_moveis_na_area_da_saude.pdf,"mobile, health"
+Gama Academy,"Desenvolvimento Full Stack",120,2021-07-25,20210810_Bootcamp_Full_Stack_Hiring_Coders.pdf,"bootcamp, full stack"
+IFRS,Produção de Vídeos usando OBS Studio e Kdenlive,20,2021-07-05,20210705_Producao_de_Vídeos_usando_OBS_Studio_e_Kdenlive.pdf,"obs studio, kdenlive"
+IFRS,Inkscape,40,2021-07-05,20210705_Inkscape.pdf,"inkscape"
+Digital Innovation One,Bootcamp SPTech Desenvolvimento Back-end,73,2021-05-31,20210531_Bootcamp_SPTech_Desenvolvimento_Back-end.pdf,"bootcamp, backend"
+Fundação Bradesco,Lei Geral de Proteção de Dados - LGPD,2,2021-05-10,20210510_Lei_Geral_de_Protecao_de_Dados_LGPD.pdf,"LGPD"
+CertiProf,Cyber Security Foundation,1,2021-04-30,20210430_Cyber_Security_Foundation.pdf,"security"
+PUCPR,Estratégi.CO,2,2021-02-03,20210203_PUCPR_Digital-Estrategi.CO.pdf,"career"
+PUCPR,Reset,2,2021-02-03,20210203_PUCPR_Digital-Reset.pdf,"career"
+Gama Academy,"Hiring Coders",120,2020-09-21,20200921_Hiring_Coders.pdf,"Bootcamp, Full stack, Javascript"
+Kanban Institute,Kanban Foundation – KIKF,1,2020-09-16,20200916_Kanban.pdf,"Kanban, KIKF"
 Service Desk Brasil,Workshop Full Stack – FusionInventory + GLPI,8,2020-07-23,20200723_Workshop_Full_Stack_GLPI_FusionInventory.pdf,"GLPI, Fusion Inventory, Full Stack"
+Escola da Assembleia,Declaração de Docência,20,2020-07-07,20200707-declaracao-de-docencia-excel.pdf,"Docência, Excel"
+Cruzeiro do Sul,Gestão de Projeto Educaional e Corporativo,40,2020-06-26,20200626-Gestao-de-Projeto-Educacional-e-Corporativo.pdf,"Projeto Educacional"
+Digital Innovation One,Desenvolvedor Front-end ReactJS,87,2020-06-25,20200625-Desenvolvedor-Frond-end-ReactJS.pdf,"Bootcamp, React, Frontend"
+Cruzeiro do Sul,Gestão por Processos,40,2020-06-22,20200622-Gestao-por-processos.pdf,process management
+Cruzeiro do Sul,Perícia Forense Computacional,40,2020-06-16,20200616_Pericia_Forense_Computacional.pdf,"forensic expertise,security"
+CertiProf,"Scrum Foundation Professional – SFPC",1,2020-06-13,20200614_Scrum_Foundation_Professional_Certificate.pdf,"scrum, SFPC"
+Cruzeiro do Sul,Auditoria em Tecnologia da Informação,30,2020-06-12,20200612_Auditoria-em_Tecnologia_da_Informacao.pdf,"audit"
+Digital Innovation One,Desenvolvedor Back-end PHP,72,2020-04-28,20200428-Desenvolvedor-Back-end-PHP.pdf,"PHP, backend"
+Cruzeiro do Sul,Perfil Campeão: Linkedin,40,2020-04-20,20200420_perfil-campeao-linkedin.pdf,"career, linkedin"
+Cruzeiro do Sul,Currículo Lattes: da elaboração à atualização do seu perfil acadêmico,40,2020-04-20,20200420_curriculo-lattes-da-elaboracao-a-atualizacao-do-seu-perfil-academico.pdf,"career, Lattes"
+UpInside,Git Workflow,15,2020-04-05,20200405-Git-Workflow.pdf,"git,workflow"
+Rocketseat,Semana OmniStack 11,10,2020-03-29,20200329-Semana-Omnistack-11.pdf,"NodeJs, React"
+UFRN,Open Data Natal 2020,16,2020-03-06,20200306-Open-Data-Day-2020.pdf,"Open Data"
+GDG Natal,DevFest Nordeste 20219 Natal,10,2019-10-19,20191019-Devfest.pdf,"google, devfest, Nordeste"
+DevMedia,O que é teste unitário?,4,2019-10-13,20191013-Devmedia-O-que-e-teste-unitário.pdf,"unit test,test"
+ENAP,Introdução à Interoperabilidade,20,2019-09-25,20190925-Introducao-a-Interoperabilidade.pdf,"Interoperability"
+SEBRAE,Startup Day,10,2019-05-18,20190518-Startup-Day.pdf,startup
+ENAP,Gestão de Riscos,20,2019-05-08,20190508-ENAP-Gestao-de-Riscos.pdf,risk management
+ENAP,Criatividade e Novas Tecnologias no Serviço Público,10,2019-04-17,20190417-Criatividade-e-Novas-Tecnologias-no-Servico-Publico.pdf,"public management, creativity, new technologies"
+Fundação Bradesco,Fundamentos de Governança de TI,12,2019-03-28,20190328-Fundamentos-de-Governanca-de-TI.pdf,"IT Governance"
+Open Knowledge Brasil,Python para Open Data,4,2019-03-23,20190323-Python-para-Open-Data.pdf,"python, open data"
+Fundação Oswaldo Cruz,O que é Ciência Aberta,10,2019-03-20,20190320-o-que-e-ciencia-aberta.pdf,"open science"
+Fundação Bradesco,Governo Aberto,40,2019-02-20,20190208-Governo-aberto.pdf,"open government"
+Escola da Assembleia,Oficina de Elaboração de Projetos,52,2018-10-23,20181124-Curso-Elaboracao-de-Projetos.pdf,"project development"
+Escola da Assembleia,Oficina em Análise Comportamental,4,2018-07-03,20180703-Oficina-em-Analise-Comportamental.pdf,"behavioral analysis, soft skills"
+Escola da Assembleia,Especialização em Gestão Pública,400,2018-06-14,20180618_Especializacao_em_Gestao_Publica.pdf,"gestão pública, pós-graduação"
+Escola da Assembleia,Declaração de Docência – Word para Projetos Acadêmicos,10,2017-11-07,20171107-declaracao-de-docencia-word-para-projetos-academicos.pdf,"word, "
+Escola da Assembleia,Declaração de Docência – Word para Projetos Acadêmicos,10,2017-10-31,20171031-declaracao-de-docencia-word-para-projetos-academicos.pdf,word
+Escola da Assembleia,Oficinal em Elaboração de Projeto,12,2017-10-18,20171018-Oficina-em-Elaboracao-de-Projetos.pdf,"project development"
+Escola do  Governo,Apresentação oral Inovação na gestão pública: O caso do portal de transparência da Assembleia Legislativa do Rio Grande do Norte,1,2017-08-31,20170831-congesprn.pdf,innovation
+Escola da Assembleia,Oficina de Elaboração de Projetos,12,2017-08-23,20170823-Oficina-em-Elaboracao-de-Projetos.pdf,project development
+Sociedade Brasileira de Administração Pública,IV Encontro Brasileiro de Administração Pública,20,2017-05-24,20170524-EBAP.pdf,"EBAP, SBAP"
+Escola de Políticas Públicas,Dados Abertos Conectados,40,2017-02-11,20170211-Dados-Abertos-Conectados.pdf,"Open data"
+Linux Foundation,LFS101x2: Introduction to Linux,4,2016-12-19,20161219-LFS101x2-Introduction-to-Linux.pdf,linux
+Escola de Políticas Públicas,Publicação de dados em formato aberto,30,2016-11-23,20161123-Publicacao-de-Dados-em-Formato-Aberto.pdf,"open data"
+ENAP,Elaboração de Plano de Dados Abertos,20,2016-11-16,20161116-Elaboracao-de-Plano-de-Dados-Abertos.pdf,"open data"
 Escola da Assembleia,Produtividade no Serviço Público,8,2016-10-05,20161005-Produtividade-no-Servico-Publico.pdf,productivity
+Escola da Assembleia,Ética Profissional,4,2016-09-28,20160928-Etica-Profissional.pdf,"ethic, soft skills"
 Escola da Assembleia,Noções de Direito Administrativo,8,2016-08-30,20160830-Nocoes-de-Direito-Administrativo.pdf,administrative law
 Escola da Assembleia,Gestão e Fiscalizacao de Contratos Administrativos,8,2016-08-24,20160824-Gestao-e-Fiscalizacao-de-Contratos-Administrativos.pdf,administrative contracts
 Escola da Assembleia,Negociação Gerencial,8,2016-08-23,20160823-Negociacao-Gerencial.pdf,negotiation
 Escola da Assembleia,Anúncio em Redes Sociais,8,2016-08-13,20160813-Anuncio-em-Redes-Sociais.pdf,social media ad
-Instituto do Legislativo Potiguar,Administração do Tempo,8,2015-09-29,20150928-Administracao-do-tempo.pdf,time management
-Instituto do Legislativo Potiguar,Atualização em Direito Eleitoral,8,2012-09-08,20120908-atualizacao-direito-eleitoral.pdf,election law
-Digital Innovation One,Fundamentos de Computação em Nuvem AWS,9,2023-10-16,20231016-Fundamentos_de_Computacao_em_Nuvem_AWS.pdf,"AWS, Cloud"
-Grupo Voitto,Criatividade e Resolução de Problemas,9,2022-06-20,20220620_criatividade_e_resolucao_de_problemas.pdf,"creativity, problem solving"
-Atos Corporate University,"Assédio e outros temas relacionados a discriminação e preconceito no ambiente de trabalho",1,2023-12-20,20231220_Assedio_e_outros_temas_relacionados_a_discriminacao_e_preconceito_no_ambiente_de_trabalho.pdf,"harassment, prejudice"
-Escola Conquer,Apresentações que conquistam,10,2023-11-06,20231106_escola_conquer-apresentacoes.pdf,"Communication, presentitions"
-Alura,"Administração do Oracle Database: Segurança e otimização do banco",14,2023-05-31,20230531_Administracao_do_Oracle_Database-seguranca_e_otimizacao_do_banco.pdf,"oracle, database"
-Alura,Administração do Oracle Database: Criação e Gerenciamento do Banco,10,2023-05-26,20230526_administracao-do-oracle-database-criacao-e-gerenciamento-do-banco.pdf,"oracle, database"
-Escola Conquer,Comunicação e Oratória,10,2023-05-22,20230522_Conquer_comunicacao_oratoria.pdf,"Communication, oratory"
-Escola Conquer,Produtividade Inteligente,10,2023-02-14,20230214_produtividade_inteligente.pdf,productivity
-Linuxtips,Linux Essentials,10,2022-12-13,20221213_linux-essentials.pdf,"linux, bash, shell script"
-Escola Conquer,Formação em Liderança,10,2022-11-07,20221107_formacao_em_lideranca.pdf,leadership
-Escola Conquer,Análise de Dados e Power BI,10,2022-07-21,20220721_analise_de_dados_e_power_bi.pdf,"Power BI, Data Analysis"
-Escola Conquer,SQL a linguagem dos bancos de dados,10,2022-07-19,20220719_sql_escola_conquer.pdf,"sql, database"
-Rocketseat,Semana OmniStack 11,10,2020-03-29,20200329-Semana-Omnistack-11.pdf,"NodeJs, React"
-GDG Natal,DevFest Nordeste 20219 Natal,10,2019-10-19,20191019-Devfest.pdf,"google, devfest, Nordeste"
-SEBRAE,Startup Day,10,2019-05-18,20190518-Startup-Day.pdf,startup
-ENAP,Criatividade e Novas Tecnologias no Serviço Público,10,2019-04-17,20190417-Criatividade-e-Novas-Tecnologias-no-Servico-Publico.pdf,"public management, creativity, new technologies"
-Fundação Oswaldo Cruz,O que é Ciência Aberta,10,2019-03-20,20190320-o-que-e-ciencia-aberta.pdf,open science
-Escola da Assembleia,Declaração de Docência – Word para Projetos Acadêmicos,10,2017-11-07,20171107-declaracao-de-docencia-word-para-projetos-academicos.pdf,"word, "
-Escola da Assembleia,Declaração de Docência – Word para Projetos Acadêmicos,10,2017-10-31,20171031-declaracao-de-docencia-word-para-projetos-academicos.pdf,word
+Escola da Assembleia,Elaboração de Projetos,12,2016-08-03,20160803-Elaboracao-de-Projetos.pdf,"project development"
+SENAI,Tecnologia da Informação e Comunicação,14,2016-07-01,20160701-tecnologia-da-informacao-e-comunicacao.pdf,Information and communication technology
+SENAI,Lógica de Programação,14,2016-07-01,20160701-Logica-de-programacao.pdf,Programming logic
 Escola da Assembleia,Declaração de Docência – Uso de Tablet e Smartphone,10,2016-06-08,20160608-Declaraca-de-Docencia-Uso-de-Tablet-e-Smartphone.pdf,digital inclusion
 Escola da Assembleia,Declaração de Docência – Uso de Tablet e Smartphone,10,2016-04-04,20160404-Declaraca-de-Docencia-Uso-de-Tablet-e-Smartphone.pdf,digital inclusion
-Alura,Desempenho do Oracle Database: Análise do Ambiente,12,2023-06-12,20230621_desempenho-do-oracle-database-analise-do-ambiente.pdf,"oracle, database"
-Treinaweb,TreinaWeb Multi-stack #2,12,2021-10-17,20211020_Multi_Stack_2_edicao.pdf,"php, laravel"
-FM2S,Kaizen - Processo de Melhoria Contínua,12,2021-10-04,20211004_Kaizen-Processo_de_Melhoria_Continua.pdf,"Kaizen, Continuous Improvement"
-UFPE,Java para internet usando Banco de Dados,12,1998-11-22,19981122_certificado-jornadajava-ufpe.pdf,"Java"
-Fundação Bradesco,Fundamentos de Governança de TI,12,2019-03-28,20190328-Fundamentos-de-Governanca-de-TI.pdf,IT Governance
-Escola da Assembleia,Oficinal em Elaboração de Projeto,12,2017-10-18,20171018-Oficina-em-Elaboracao-de-Projetos.pdf,project development
-Escola da Assembleia,Oficina de Elaboração de Projetos,12,2017-08-23,20170823-Oficina-em-Elaboracao-de-Projetos.pdf,project development
-Escola da Assembleia,Elaboração de Projetos,12,2016-08-03,20160803-Elaboracao-de-Projetos.pdf,project development
-Alura,Desempenho do Oracle Database: Otimização de Consultas,14,2023-05-24,20230621_desempenho-do-oracle-database-otimizacao-de-consultas.pdf,"oracle, database"
-Alura,Administração do Oracle Database: Segurança e Otimização do Banco,14,2023-05-31,20230531_administracao-do-oracle-database-seguranca-e-otimizacao-do-banco.pdf,"oracle, database"
-SENAI,Tecnologia da Informação e Comunicação,14,2016-07-01,20160701-tecnologia-da-informacao-e-comunicacao.pdf,Information and communication technology
-SENAI,Lógica de Programação,14,2016-07-01,20160701-Logica-de-programacao.pdf,"Programming logic"
-Escola Conquer,Negociação e Influência,15,2022-07-25,20220725_negociacao_e_influencia.pdf,"negotiation, influence"
-Atos Corporate University,"Ajax Data Request & Responses",1,2022-05-18,20220513_ajax_data_request_and_responses.pdf,"ajax"
-Escola Conquer,Inteligência Emocional 2.0,15,2022-04-25,20220425_Inteligencia_Emocional_2.pdf,emotional intelligence
-Atos Corporate University,"Empresas mudam então prepare-se",1, 2022-03-18, 20220318_Empresas_mudam_entao_prepare-se.pdf,"change, adaptation"
-Atos Corporate University,"Redefinindo-se após uma mudança empresarial",1,2022-03-18,20220318_Redefininho-se_apos_uma_mudanca_empresarial.pdf,"change, adaptation"
-Escola Conquer,Comunicação e Oratória,15,2021-08-31,20210831__COMUNICACAO_E_ORATORIA.pdf,"Communication, oratory"
-UpInside,Git Workflow,15,2020-04-05,20200405-Git-Workflow.pdf,"git,workflow"
-Alura,"PHP e MySQL: criando sua primeira aplicação",10,2023-09-22,20230922_criando_sua_primeira_aplicacao_web.pdf,"php, mysql"
-Alura,"PHP e MySQL: criando uma webapp",10,2023-08-15,20230815_php_mysql_criando_uma_webapp.pdf,"php, mysql"
-Grupo Voitto,Oratória de Alta Performance,16,2023-08-13,20230813-oratoria-de-alta-performance.pdf,"Communication, oratory"
-Alura,Formação Shell Scripting,16,2022-12-08,20221208_shell-scripting.pdf,"shell script, bash, linux"
-Rocketseat,DoWhile,16,2021-12-02,20211202_Rockseat_DoWhile.pdf,career
-SENAI,Freehand 8,16,1999-07-02,19990702_certificado-freehand8-cti.pdf,Freehand
-UFRN,Open Data Natal 2020,16,2020-03-06,20200306-Open-Data-Day-2020.pdf,Open Data
 SEBRAE,D-Olho na Qualidade: 5Ss para os pequenos negócios,16,2016-04-04,20160404-de-olho-na-qualidade.pdf,5S
-Instituto do Legislativo Potiguar,Protocolo,16,2015-09-14,20150914-protocolo.pdf,protocol
-Escola de Governo,Elaboração de Projetos,16,2014-10-09,20141009-Elaboracao-de-projetos.pdf,project development
-Grupo Voitto,Preparatório Agile Scrum Foundation EXIN,20,2023-01-26,20230214_preparatorio_agile-scrum-foundation-exin.pdf,"scrum,agile"
-Linuxtips," Uncomplicating Docker",20,2022-06-12,20220612_Uncomplicating_Docker.pdf,docker
-IFRS,Produção de Vídeos usando OBS Studio e Kdenlive,20,2021-07-05,20210705_Producao_de_Vídeos_usando_OBS_Studio_e_Kdenlive.pdf,"obs studio, kdenlive"
-Escola da Assembleia,Declaração de Docência,20,2020-07-07,20200707-declaracao-de-docencia-excel.pdf,"Docência, Excel"
-ENAP,Introdução à Interoperabilidade,20,2019-09-25,20190925-Introducao-a-Interoperabilidade.pdf,Interoperability
-ENAP,Gestão de Riscos,20,2019-05-08,20190508-ENAP-Gestao-de-Riscos.pdf,risk management
-Sociedade Brasileira de Administração Pública,IV Encontro Brasileiro de Administração Pública,20,2017-05-24,20170524-EBAP.pdf,"EBAP, SBAP"
-ENAP,Elaboração de Plano de Dados Abertos,20,2016-11-16,20161116-Elaboracao-de-Plano-de-Dados-Abertos.pdf,open data
-ENAP,Elaboração de Dados Abertos,20,2014-04-14,20140414-ElaboracaodePlanodeDadosAbertos.pdf,open data plan
-Fundação Bradesco,Segurança da Informação,23,2013-04-01,20130401_fundacao_bradesco-seguranca_da_informacao.pdf,security
-Grupo Voitto,Power BI Aplicado a Negócios,24,2023-06-27,20230627_powerbi_aplicado_a_negocios.pdf,PowerBI
 Instituto do Legislativo Potiguar,Redação Oficial e Legislativa,24,2015-12-07,20151207-redacao-oficial-e-legislativa.pdf,official newsroom
-ACONSULT,"Construção de Indicadores de desempenho monitoramento e avaliação de resultados na Administração Pública",24, 2015-10-21 ,20151019-construcao-de-indicadores-de-desempenho-monitoramento-e-avaliacao-de-resultados-na-administracao-publica.pdf,construction of indicators
-Descomplica,Gestão do Tempo,30,2023-08-14,20230814_gestao-de-tempo.pdf,"productivity, time management"
-OpenSAP," Python for Beginners",30,2022-06-01,20220601_python1_ConfirmationOfParticipation.pdf,python
-OpenSAP," Python for Beginners Record of Achievement",30,2022-06-01,20220601_python1_RecordOfAchievement.pdf,python
-Cruzeiro do Sul,Auditoria em Tecnologia da Informação,30,2020-06-12,20200612_Auditoria-em_Tecnologia_da_Informacao.pdf,audit
-Escola de Políticas Públicas,Publicação de dados em formato aberto,30,2016-11-23,20161123-Publicacao-de-Dados-em-Formato-Aberto.pdf,open data
-SENAI,CorelDraw 8,32,1999-06-02,19990602_certificado-coreldraw-cti.pdf,CorelDraw
-Gama Academy,Hiring Coders,35,2022-07-20,20220711_hiring_coders_vtex_aws.pdf,"VTEX IO, AWS, DevOps, Digital E-commerce"
-Google,Princípios básicos de marketing digital,40,2022-12-26,20221225-Principios-basicos-marketing-digital.pdf,"Google, Marketing Digital, Marketing"
-IFRS,Inkscape,40,2021-07-05,20210705_Inkscape.pdf,inkscape
-Cruzeiro do Sul,Gestão de Projeto Educaional e Corporativo,40,2020-06-26,20200626-Gestao-de-Projeto-Educacional-e-Corporativo.pdf,Projeto Educacional
-Cruzeiro do Sul,Gestão por Processos,40,2020-06-22,20200622-Gestao-por-processos.pdf,process management
-Cruzeiro do Sul,Perícia Forense Computacional,40,2020-06-16,20200616_Pericia_Forense_Computacional.pdf,"forensic expertise,security"
-Cruzeiro do Sul,Perfil Campeão: Linkedin,40,2020-04-20,20200420_perfil-campeao-linkedin.pdf,"career, linkedin"
-Cruzeiro do Sul,Currículo Lattes: da elaboração à atualização do seu perfil acadêmico,40,2020-04-20,20200420_curriculo-lattes-da-elaboracao-a-atualizacao-do-seu-perfil-academico.pdf,"career, Lattes"
-Fundação Bradesco,Governo Aberto,40,2019-02-20,20190208-Governo-aberto.pdf,open government
-Escola de Políticas Públicas,Dados Abertos Conectados,40,2017-02-11,20170211-Dados-Abertos-Conectados.pdf,Open data
+Associação Brasileira de Educação à Distância,Espanhol introdutório para Intercambistas,3,2015-11-04,20151104-espanhol-para-intercambistas.pdf,Spanish
+Instituto do Legislativo Potiguar,Administração do Tempo,8,2015-09-29,20150928-Administracao-do-tempo.pdf,time management
+Instituto do Legislativo Potiguar,"Protocolo",16,2015-09-14,20150914-protocolo.pdf,"protocol"
+Microsoft,MS Roadshow Natal – Computação em Nuvem,6,2015-06-09,20150609-MS-Roadshow-Natal.pdf,"Cloud"
+IETEC,Certificação PMP – Processo e pré-requisito,2,2015-02-22,20150222-pmp--processos-e-pre-requisitos.pdf,process
+Escola de Governo,Elaboração de Projetos,16,2014-10-09,20141009-Elaboracao-de-projetos.pdf,project development
+Escola de Governo,Uso e Tendências da Computação em Nuvem,3,2014-10-01,20141001-uso-e-tendencias-da-computacao-em-nuvem.pdf,"cloud"
+SEBRAE,MEI – Microempreendedor Individual,5,2014-07-22,20140722-sebrae_MEI_EAD.pdf,MEI
+ENAP,Elaboração de Dados Abertos,20,2014-04-14,20140414-ElaboracaodePlanodeDadosAbertos.pdf,"open data plan"
+UnP,Curso superior de tecnologia em gestão pública,1600,2014-01-29,20140124_UnP.pdf,"gestão pública"
+Microsoft Virtual Academy,Introdução ao Active Directory,4,2013-04-28,20130428_mva_introducao_active_directory.pdf,"Active Directory,Windows Server"
+Fundação Bradesco,Segurança da Informação,23,2013-04-01,20130401_fundacao_bradesco-seguranca_da_informacao.pdf,security
 Fundação Bradesco,Gestão Estratégica de TI – ITIL,42,2013-04-01,20130325_gestao_estrategica_de_TI-ITIL.pdf,ITIL
-Alura,Formação Administração e Performance com Oracle Database,50,2023-06-12,20230612_administracao-e-performance-com-oracle-database.pdf,"oracle, database"
-Escola da Assembleia,Oficina de Elaboração de Projetos,52,2018-10-23,20181124-Curso-Elaboracao-de-Projetos.pdf,project development
+Instituto do Legislativo Potiguar,Atualização em Direito Eleitoral,8,2012-09-08,20120908-atualizacao-direito-eleitoral.pdf,election law
+Instituto Legislativo Potiguar,Segurança Eletrônica e Certificação Digital,8,2012-06-03,20120903_certificado-segurancaeletronica.pdf,security
 ITECI,SQL Server,60,2002-11-19,20020903_certificado-sqlserver-iteci.pdf,"SQL Server, Database"
-Digital Innovation One,Desenvolvedor Back-end PHP,72,2020-04-28,20200428-Desenvolvedor-Back-end-PHP.pdf,"PHP, backend"
-Digital Innovation One,Bootcamp SPTech Desenvolvimento Back-end,73,2021-05-31,20210531_Bootcamp_SPTech_Desenvolvimento_Back-end.pdf,"bootcamp, backend"
-Digital Innovation One,Desenvolvedor Front-end ReactJS,87,2020-06-25,20200625-Desenvolvedor-Frond-end-ReactJS.pdf,"Bootcamp, React, Frontend"
-Digital Innovation One,Bootcamp everis New Talents – Java,88,2021-09-24,20210924_Bootcamp_Everis_New_Talents-Java.pdf,"bootcamp, java"
-Gama Academy,Desenvolvimento em ecommerce VTEX IO,100,2021-08-22,20210903_Hiring_Coders.pdf,"VTEX, javascrip, react, AWS"
-Gama Academy,QE&A Automation Academy,120,2022-08-27,20220827_qea_automation_academy.pdf,"QE&A, test"
-Gama Academy,Hiring Coders,120,2022-06-15,20220623_hiring_coders.pdf,"bootcamp, javascript, NodeJs, typescript, React, Next.JS, Gatsby.JS"
-Gama Academy,Desenvolvimento Full Stack,120,2021-07-25,20210810_Bootcamp_Full_Stack_Hiring_Coders.pdf,"bootcamp, full stack"
+SENAI,Freehand 8,16,1999-07-02,19990702_certificado-freehand8-cti.pdf,Freehand
+SENAI,CorelDraw 8,32,1999-06-02,19990602_certificado-coreldraw-cti.pdf,"CorelDraw"
+UFPE,Java para internet usando Banco de Dados,12,1998-11-22,19981122_certificado-jornadajava-ufpe.pdf,"Java"
 Data Control,Pagemaker / CorelDraw,120,1995-05-20,19950520_certificado-pagemaker-coreldraw-datacontrol.pdf,"Pagemaker, CorelDraw"
-Gama Academy,Hiring Coders,120,2020-09-21,20200921_Hiring_Coders.pdf,"Bootcamp, Full stack, Javascript"
-Digital Innovation One,Santander Bootcamp | Fullstack Developer,125,2021-09-14,20210914_Santander_Bootcamp_Fullstack_Developer.pdf,"bootcamp, full stack"
-Gama Academy,Acelera Atos,131,2021-12-20,20211220_Acelera_Atos.pdf,"java"
-Escola da Assembleia,Especialização em Gestão Pública,400,2018-06-14,20180618_Especializacao_em_Gestao_Publica.pdf,"gestão pública, pós-graduação"
-UnP,Curso superior de tecnologia em gestão pública,1600,2014-01-29,20140124_UnP.pdf,gestão pública
+Atos Corporate University,Empresas mudam então prepare-se,1, 2022-03-18, 20220318_Empresas_mudam_entao_prepare-se.pdf,"change, adaptation"
+ACONSULT,Construção de Indicadores de desempenho monitoramento e avaliação de resultados na Administração Pública,24, 2015-10-21 ,20151019-construcao-de-indicadores-de-desempenho-monitoramento-e-avaliacao-de-resultados-na-administracao-publica.pdf,construction of indicators
